@@ -1,0 +1,10 @@
+# bit.dev
+.bit
+public/
+node_modules/
+
+# figma
+figma-tokens.json
+
+# tests
+**/fixtures/**/result/
