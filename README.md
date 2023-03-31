@@ -13,4 +13,4 @@ Current result
 
 `Error: Cannot find module 'typescript/lib/tsserver.js'` on step `teambit.pipelines/builder, running tasks (6/8). env "teambit.react/react", task "teambit.semantics/schema:ExtractSchema (extract api schema for a set of components)`
 
-![Log](files://./log.png)
+![Log](./log.png)
